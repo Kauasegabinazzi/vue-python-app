@@ -50,5 +50,12 @@ If you are using the GitHub CLI, run:
 
 ## Running the Application
 
+- Make sure MongoDB Compass is open before starting the application
 - for FrontEnd: npm run serve
 - for BackEnd: python main.py
+
+## Introduction
+
+- To start using the application, run the command python parser.py to add the JSON data to MongoDB on cd backend
+- After completing this step, you can navigate to the frontend and backend directories to start the application
+
