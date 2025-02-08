@@ -18,13 +18,13 @@ This repository contains a fullstack web application using Vue.js for the fronte
 
 1. Clone the repository:
 ```bash
-   git clone dhsjdh
+   git clone https://github.com/Kauasegabinazzi/vue-python-app.git
 ```
 
 If you are using the GitHub CLI, run:
 
 ```bash
-  gh repo clone dsjhdjd
+  gh repo clone https://github.com/Kauasegabinazzi/vue-python-app.git
 ```
 2. Navigate to the project directory for FrontEnd:
 
