@@ -26,15 +26,29 @@ If you are using the GitHub CLI, run:
 ```bash
   gh repo clone dsjhdjd
 ```
-
 2. Navigate to the project directory for FrontEnd:
 
 ```bash
   cd frontend
 ```
-## Install the dependencies
+## Install the dependencies for FrontEnd
 
 - npm install
 - npm install vuetify@next
 
+3. Navigate to the project directory for BackEnd:
 
+```bash
+  cd backend
+```
+## Install the dependencies forBackEnd
+
+- pip install pymongo
+- pip install fastapi[all]
+- pip install fastapi uvicorn
+- pip install motor
+
+## Running the Application
+
+- for FrontEnd: npm run serve
+- for BackEnd: python main.py
