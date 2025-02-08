@@ -13,3 +13,28 @@ This repository contains a fullstack web application using Vue.js for the fronte
 - MongoDB installed and running
 - Package managers: pip (for Python) and npm or yarn (for Vue.js)
 - A code editor (VS Code)
+
+## Installation
+
+1. Clone the repository:
+```bash
+   git clone dhsjdh
+```
+
+If you are using the GitHub CLI, run:
+
+```bash
+  gh repo clone dsjhdjd
+```
+
+2. Navigate to the project directory for FrontEnd:
+
+```bash
+  cd frontend
+```
+## Install the dependencies
+
+- npm install
+- npm install vuetify@next
+
+
