@@ -12,4 +12,4 @@ This repository contains a fullstack web application using Vue.js for the fronte
 - Node.js installed (for the frontend)
 - MongoDB installed and running
 - Package managers: pip (for Python) and npm or yarn (for Vue.js)
-- A code editor (e.g., VS Code)
+- A code editor (VS Code)
